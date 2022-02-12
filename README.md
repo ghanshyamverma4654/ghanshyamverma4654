@@ -9,3 +9,8 @@
 - :email: Email-Id: ghanshyam.verma_cs19@gla.ac.in
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everday.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyamverma4654&layout=compact)](https://github.com/ghanhshyamverma4654/github-readme-stats)
+
+![Ghanshyam Verma GitHub stats](https://github-readme-stats.vercel.app/api?username=ghanshyamverma4654&show_icons=true&theme=radical)
+
