@@ -1,6 +1,6 @@
 ### Hola, I'm Ghanshyam Verma! 👋
 
-- 🔭 I’m currently working on Web Development - "Our Coaching".
+- 🔭 I’m currently working on, Web Development: "Our Coaching".
 - 🌱 I’m currently learning JavaScript, Flutter.
 - 👯 I’m looking to collaborate on Flutter(Dart) Development.
 - 🤔 I’m looking for help with Flutter.dev.
