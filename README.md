@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning SQL, Operating System & Computer Networks.
 - 👯 I’m looking to collaborate on Flutter Development.
 - 🤔 I’m looking for help with https://www.sanfoundry.com/ & https://flutter.dev/.
-- 💬 Ask me about - Java And Python.
+- 💬 Ask me about - Java And Web Development.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ghanshyam-verma-480426203/
 - :email:             Email-Id: ghanshyam.verma_cs19@gla.ac.in
 - 😄 Pronouns: He/His
