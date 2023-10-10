@@ -1,9 +1,9 @@
 ### Hola, I'm Ghanshyam Verma! 👋
 
 - 🔭 I’m currently working on, Web Development: "Our Coaching".
-- 🌱 I’m currently learning SQL, Operating System & Computer Networks.
-- 👯 I’m looking to collaborate on Flutter Development.
-- 🤔 I’m looking for help with https://www.sanfoundry.com/ & https://www.w3schools.com/.
+- 🌱 I’m currently learning Javascript, React.
+- 👯 I’m looking to collaborate on Web Development.
+- 🤔 I’m looking for help with https://www.javatpoint.com/javascript-tutorial & https://www.w3schools.com/.
 - 💬 Ask me about - Java And Web Development.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ghanshyam-verma-480426203/
 - :email:             Email-Id: ghanshyam.verma_cs19@gla.ac.in
