@@ -1,14 +1,14 @@
 ### Hola, I'm Ghanshyam Verma! 👋
 
-- 🔭 I’m currently working on, Web Development: "Our Coaching".
-- 🌱 I’m currently learning Javascript, React.
+- 🔭 I’m currently working on, Web Development: Full Stack.
+- 🌱 I’m currently learning Full Stack Development.
 - 👯 I’m looking to collaborate on Web Development.
-- 🤔 I’m looking for help with https://www.javatpoint.com/javascript-tutorial & https://www.w3schools.com/.
+- 🤔 I’m looking for help with React & Javascript.
 - 💬 Ask me about - Java And Web Development.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ghanshyam-verma-480426203/
-- :email:             Email-Id: ghanshyam.verma_cs19@gla.ac.in
+- :email:             Email-Id: ghanshyamofficial212@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everday.
+- ⚡ Fun fact: I can do coding almost 10 hours continuously everday.
 
 <!-- -![gitImages](https://user-images.githubusercontent.com/67820202/112162579-3156bc80-8c12-11eb-97b6-2195cb0ca94d.jpg) -->
 <h3 align="left">Languages and Tools:</h3>
