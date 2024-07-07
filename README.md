@@ -1,4 +1,4 @@
-### Hola, I'm Ghanshyam Verma! 👋
+### Hello there!, I'm Ghanshyam Verma! 👋
 
 - 🔭 I’m currently working on, Web Development: Full Stack.
 - 🌱 I’m currently learning Full Stack Development.
