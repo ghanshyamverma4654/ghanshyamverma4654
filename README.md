@@ -1,10 +1,9 @@
 ### Hello there!, I'm Ghanshyam Verma! 👋
 
-- 🔭 I’m currently working on, Web Development: Full Stack.
-- 🌱 I’m currently learning Full Stack Development.
-- 👯 I’m looking to collaborate on Web Development.
-- 🤔 I’m looking for help with React & Javascript.
-- 💬 Ask me about - Java And Web Development.
+- 🔭 I’m currently learning "Data Science"
+- 👯 I’m looking to collaborate on AI and Data Science.
+- 🤔 I’m looking for help with Artificial Intelligence and Machine Learning.
+- 💬 Ask me about - AI, ML, Data Science, Python.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ghanshyam-verma-480426203/
 - :email:             Email-Id: ghanshyamofficial212@gmail.com
 - 😄 Pronouns: He/His
