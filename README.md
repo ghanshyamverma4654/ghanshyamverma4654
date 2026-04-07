@@ -1,13 +1,13 @@
-### Hello there!, I'm Ghanshyam Verma! 👋
+### Hello there! I'm Ghanshyam Verma! 👋
 
-- 🔭 I’m currently learning "Data Science"
-- 👯 I’m looking to collaborate on AI and Data Science.
+- 🔭 I’m currently learning "Data Science."
+- 👯 I’m looking to collaborate on AI/ML and Data Science.
 - 🤔 I’m looking for help with Artificial Intelligence and Machine Learning.
 - 💬 Ask me about - AI, ML, Data Science, Python.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ghanshyam-verma-480426203/
 - :email:             Email-Id: ghanshyamofficial212@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I can do coding almost 10 hours continuously everday.
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I can code almost 5 hours continuously every day.
 
 <!-- -![gitImages](https://user-images.githubusercontent.com/67820202/112162579-3156bc80-8c12-11eb-97b6-2195cb0ca94d.jpg) -->
 <h3 align="left">Languages and Tools:</h3>
